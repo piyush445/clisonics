@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "923404982232",
+    "project_id": "musopathy-bfaea",
+    "storage_bucket": "musopathy-bfaea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923404982232:android:4eda196f0c72dd3c2b04ad",
+        "android_client_info": {
+          "package_name": "com.clisonics.musopathy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923404982232-1sl19tgfcii3n6lejof174vfjt4nt03e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clisonics.musopathy",
+            "certificate_hash": "8821c4ca11ee51c7a498f01e038086b37764700c"
+          }
+        },
+        {
+          "client_id": "923404982232-2ffkj93q7uio1sgkhquvscmnc250rdct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clisonics.musopathy",
+            "certificate_hash": "7cdc3a2792b4f8c8eb59d8532a0b9adec03cc764"
+          }
+        },
+        {
+          "client_id": "923404982232-h7pq6ee5iovfbk2bbrmq5f1751r1shcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clisonics.musopathy",
+            "certificate_hash": "f7c996f6e8b5b1a8537e9aa314963e5135ba1c76"
+          }
+        },
+        {
+          "client_id": "923404982232-h8ouf7egjq9ph514jnbsugrncn1uce1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clisonics.musopathy",
+            "certificate_hash": "d4229b53f7d7ab2e83a4d7f35a04c6b377bdf755"
+          }
+        },
+        {
+          "client_id": "923404982232-bquadu7f1ap3a56kuisvg7etfkr3dtca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtEfMx6y0VthKGSUMrNf81W0q9RTKYsTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923404982232-bquadu7f1ap3a56kuisvg7etfkr3dtca.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923404982232-qm1vf7p1pgiri8buqtoii7s09h9e1h3i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clisonics.musopathy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
